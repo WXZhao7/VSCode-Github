@@ -1,2 +1,2 @@
-# VSCode-Github
-View  repository of GitHub by VSCode Web
+# VSCode-Github: A button connecting to [VSCode Web](https://vscode.dev/)
+**original repository: [Github1s](https://github.com/JackieZheng/Github1s), I just modify a little details.**
