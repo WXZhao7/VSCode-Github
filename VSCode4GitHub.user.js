@@ -18,7 +18,7 @@
     document.getElementsByClassName('pagehead-actions flex-shrink-0 d-none d-md-inline').item(0).insertBefore(VSCodeWeb,li)
     VSCodeWeb.onclick=function()
     {
-        var href=top.liation.href.replace('github.com','vscode.dev/github')
-        top.liation.href=href;
+        var href=top.location.href.replace('github.com','vscode.dev/github')
+        top.location.href=href;
     }
 })();
